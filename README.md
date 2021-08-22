@@ -1,7 +1,5 @@
 ![](https://user-images.githubusercontent.com/12829262/130348347-2d9c0abe-9886-4025-b0d4-c69cc9910a79.png)
 
-![](https://user-images.githubusercontent.com/12829262/130349414-83324083-3946-4b01-b471-2b8d0de68531.png)
-
 # CC-Google-Sheets-ACP-PoC-v4
 
 Proof of concept of a community connector for Google Data Studio that offers a more advanced form of row-level security than the built-in filter by email in the data source. Some features:
@@ -17,3 +15,5 @@ Proof of concept of a community connector for Google Data Studio that offers a m
 https://user-images.githubusercontent.com/12829262/130348853-06ba6a91-2621-4d2e-87ad-94da60136e28.mp4
 
 This is the final versión of the community connector proposed in Using community connectors to go beyond filter by email in Data Studio.
+
+![](https://user-images.githubusercontent.com/12829262/130349414-83324083-3946-4b01-b471-2b8d0de68531.png)
