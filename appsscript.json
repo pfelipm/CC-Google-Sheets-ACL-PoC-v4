@@ -1,0 +1,30 @@
+{
+  "timeZone": "Europe/Madrid",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "OAuth2",
+        "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
+        "version": "41"
+      }
+    ]
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/userinfo.email",
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Google Sheets ACL by emails [PoC] v4",
+    "logoUrl": "https://cdn.bitrix24.com/b9316961/landing/027/027c19d37fefaaa64fc64510f40c2e60/Selecci_n_567.png",
+    "company": "Pablo Felip",
+    "companyUrl": "https://www.tictools.tk/",
+    "addonUrl": "https://www.tictools.tk/",
+    "supportUrl": "https://www.tictools.tk/",
+    "termsOfServiceUrl": "https://www.tictools.tk/",
+    "description": "PoC ACL for Google Sheets. This version uses a service account with USER_PASS authentication to access dataset and supports email, domain, anyone [*] and built-in group ACL.",
+    "sources": ["GOOGLE_SHEETS"],
+    "authType": ["USER_PASS"],
+    "feeType": ["FREE"]
+  }
+}
