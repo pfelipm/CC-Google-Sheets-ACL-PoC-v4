@@ -8,7 +8,7 @@ Proof of concept of a community connector for Google Data Studio that offers a m
 *   Uses a service account to access the underlying dataset with `AuthTypes.USER_PASS`.
 *   [Stepped configuration](https://developers.google.com/datastudio/connector/stepped-configuration)
 
-<table><tbody><tr><td><figure class="image"><img src="https://user-images.githubusercontent.com/12829262/130348616-c56a50f5-decb-4e8c-8792-96a7ad839086.png" alt=""></figure></td><td><figure class="image"><img src="https://user-images.githubusercontent.com/12829262/130349299-71de1eef-dbbb-4867-b958-0719e6a81aae.png" alt=""></figure></td></tr></tbody></table>
+<table><tbody><tr><td><figure class="image"><img src="https://user-images.githubusercontent.com/12829262/130349603-fd5579e0-df67-4578-b2e7-21bccfa73ca7.png"></figure></td><td><figure class="image"><img src="https://user-images.githubusercontent.com/12829262/130349588-b5c5d4c8-c1f6-4d74-ad54-f514ead3186b.png"></figure></td></tr></tbody></table>
 
 https://user-images.githubusercontent.com/12829262/130348853-06ba6a91-2621-4d2e-87ad-94da60136e28.mp4
 
