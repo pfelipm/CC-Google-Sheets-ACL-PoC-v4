@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/12829262/130348853-06ba6a91-2621-4d2e-
 
 This is the final versión of the community connector proposed in my post 👉 [Using community connectors to go beyond filter by email in Data Studio](https://pablofelip.online/community-connectors-beyond-filter-email-data-studio).
 
-![](https://user-images.githubusercontent.com/12829262/130357870-bec401b6-6200-4309-965b-a75751e644e6.png)
+![](https://user-images.githubusercontent.com/12829262/131015112-b1cabe46-0459-4445-8ce3-69298e877d5a.png)
