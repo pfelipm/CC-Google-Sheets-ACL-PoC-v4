@@ -331,7 +331,7 @@ function getData(request) {
 
 /**
  * Pull data from a range of cells in a given Google spreadsheet using Sheets API
- * using the specified service account
+ * and the specified service account
  * @param   {string}   id       ID of spreadsheet
  * @param   {string}   range    Range of cells, including sheet
  * @param   {string}   saEmail  Service account's email
