@@ -343,7 +343,7 @@ function readDataApi(id, range, saEmail, saKey) {
   const service = getOauthService(saEmail, saKey);
   // service.reset();
   if (service.hasAccess()) {
-    const data =UrlFetchApp.fetch(`https://sheets.googleapis.com/v4/spreadsheets/${id}/values/${range}?majorDimension=ROWS`,
+    const data = UrlFetchApp.fetch(`https://sheets.googleapis.com/v4/spreadsheets/${id}/values/${range}?majorDimension=ROWS`,
       {
           headers: {Authorization: 'Bearer ' + service.getAccessToken()},
           method: 'get',
@@ -374,7 +374,7 @@ function getSheetsApi(id, saEmail, saKey) {
   const service = getOauthService(saEmail, saKey);
   // service.reset();
   if (service.hasAccess()) {
-    const data =UrlFetchApp.fetch(`https://sheets.googleapis.com/v4/spreadsheets/${id}?includeGridData=false`,
+    const data = UrlFetchApp.fetch(`https://sheets.googleapis.com/v4/spreadsheets/${id}?includeGridData=false`,
       {
           headers: {Authorization: 'Bearer ' + service.getAccessToken()},
           method: 'get',
